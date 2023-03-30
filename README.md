@@ -4,7 +4,7 @@ Unit displays a box that it's background changes after each second for seven sec
 
 ## Preview
 
-See the final product: https://artsyl3.github.io/Promises/
+See the final product: https://artsyl3.github.io/Async-Await/
 
 ## Features
 
